@@ -5,7 +5,7 @@ This project aims to analyze the sales data of a bakery. This analysis includes 
 ## How to install
 
 1. Clone this repository:
-   ``bash
+   ```bash
    git clone https://github.com/username/repository-name.git
    ```
 2. Go to the project directory:
