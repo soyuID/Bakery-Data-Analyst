@@ -1,32 +1,30 @@
-# Bakery-Data-Analysi
-
 # Bakery Data Analysis
 
-Proyek ini bertujuan untuk menganalisis data penjualan dari sebuah toko roti. Analisis ini mencakup berbagai aspek seperti tren penjualan, produk terlaris, dan waktu penjualan terbaik.
+This project aims to analyze the sales data of a bakery. This analysis includes various aspects such as sales trends, best-selling products, and best selling times.
 
-## Cara Instalasi
+## How to install
 
-1. Clone repositori ini:
-   ```bash
+1. Clone this repository:
+   ``bash
    git clone https://github.com/username/repository-name.git
    ```
-2. Masuk ke direktori proyek:
+2. Go to the project directory:
    ```bash
    cd repository-name
    ```
-3. Instal dependensi yang diperlukan:
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Cara Penggunaan
+## How to use
 
-Buka dan jalankan notebook `Bakery_Data_Analysis.ipynb` untuk melihat analisis data secara interaktif.
+Open and run the `Bakery_Data_Analysis.ipynb` notebook to view the data analysis interactively.
 
-## Kontribusi
+## Contributions
 
-Kontribusi sangat diterima! Silakan buat pull request atau buka issue untuk diskusi lebih lanjut.
+Contributions are very welcome! Please create a pull request or open an issue for further discussion.
 
-## Lisensi
+## License
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
