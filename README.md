@@ -6,7 +6,7 @@ This project aims to analyze the sales data of a bakery. This analysis includes 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/soyuID/Bakery-Data-Analyst.git
    ```
 2. Go to the project directory:
    ```bash
